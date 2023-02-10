@@ -1,0 +1,15 @@
+C:\Users\ORIGINAL2022\source\repos\C#\Console\FootballTeams\FootballTeams\bin\Debug\net6.0\FootballTeams.exe
+C:\Users\ORIGINAL2022\source\repos\C#\Console\FootballTeams\FootballTeams\bin\Debug\net6.0\FootballTeams.deps.json
+C:\Users\ORIGINAL2022\source\repos\C#\Console\FootballTeams\FootballTeams\bin\Debug\net6.0\FootballTeams.runtimeconfig.json
+C:\Users\ORIGINAL2022\source\repos\C#\Console\FootballTeams\FootballTeams\bin\Debug\net6.0\FootballTeams.dll
+C:\Users\ORIGINAL2022\source\repos\C#\Console\FootballTeams\FootballTeams\bin\Debug\net6.0\FootballTeams.pdb
+C:\Users\ORIGINAL2022\source\repos\C#\Console\FootballTeams\FootballTeams\obj\Debug\net6.0\FootballTeams.csproj.AssemblyReference.cache
+C:\Users\ORIGINAL2022\source\repos\C#\Console\FootballTeams\FootballTeams\obj\Debug\net6.0\FootballTeams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORIGINAL2022\source\repos\C#\Console\FootballTeams\FootballTeams\obj\Debug\net6.0\FootballTeams.AssemblyInfoInputs.cache
+C:\Users\ORIGINAL2022\source\repos\C#\Console\FootballTeams\FootballTeams\obj\Debug\net6.0\FootballTeams.AssemblyInfo.cs
+C:\Users\ORIGINAL2022\source\repos\C#\Console\FootballTeams\FootballTeams\obj\Debug\net6.0\FootballTeams.csproj.CoreCompileInputs.cache
+C:\Users\ORIGINAL2022\source\repos\C#\Console\FootballTeams\FootballTeams\obj\Debug\net6.0\FootballTeams.dll
+C:\Users\ORIGINAL2022\source\repos\C#\Console\FootballTeams\FootballTeams\obj\Debug\net6.0\refint\FootballTeams.dll
+C:\Users\ORIGINAL2022\source\repos\C#\Console\FootballTeams\FootballTeams\obj\Debug\net6.0\FootballTeams.pdb
+C:\Users\ORIGINAL2022\source\repos\C#\Console\FootballTeams\FootballTeams\obj\Debug\net6.0\FootballTeams.genruntimeconfig.cache
+C:\Users\ORIGINAL2022\source\repos\C#\Console\FootballTeams\FootballTeams\obj\Debug\net6.0\ref\FootballTeams.dll
